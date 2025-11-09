@@ -1,0 +1,125 @@
+<!-- <html> 
+<head> 
+</style> 
+</head> 
+<body> 
+<h1 style="background-color: rgb(157, 180, 7);">Styling Lists With Colors</h1> 
+<table style="border-radius: 4cm;">
+    <div style ="background-color: bisque;">
+        <div style ="<ol"border-radius15pxl;></div>
+<ol> 
+<li>Coffee</li> 
+<li>Tea</li> 
+<li>Coca Cola</li> 
+</ol> 
+
+<ul> 
+<li>Biscuit</li> 
+<li>Namkeen</li> 
+<li>Sweets</li> 
+</ul>
+</style>
+</table> 
+</body> 
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html> -->
+<!-- <head>
+<style>
+ol {
+ background: #ff99e7;
+ padding: 20px;
+}
+ul {
+ background: #3399ff;
+ padding: 20px;
+}
+ol li {
+ background: #e5fff0;
+ color: rgb(207, 93, 51); -->
+ <!-- padding: 5px;
+ /* margin-left: 35px;
+}
+ul li {
+ background: #cce5ff;
+ color: rgb(139, 53, 0);
+ margin: 5px;
+}
+</style>
+</head>
+<body>
+<h1>Styling Lists With  diffrent Colors-</h1>
+<ol>
+    <h2> HOSTEL MESS </h2>
+ <li>Breakfast</li>
+ <li>Lunch</li>
+ <li>Supper</li>
+ <li> Dinner</li>
+</ol>
+<ul>
+    <h2> HOSTEL GYM</h2>
+ <li>Bisheps</li>
+ <li>Shoulders</li>
+ <li>Leg</li> -->
+ <!-- <li> Chest</li>
+</ul>
+</body>
+</html> */ -->
+
+
+<!-- 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
+</style>
+</head>
+<body>
+<h2>The border-style Property</h2>
+<p>This property specifies what kind of border to display:</p>
+<p class="dotted">A dotted border.</p>
+<p class="dashed">A dashed border.</p>
+<p class="solid">A solid border.</p>
+<p class="double">A double border.</p>
+<p class="groove">A groove border.</p>
+<p class="ridge">A ridge border.</p>
+<p class="inset">An inset border.</p>
+<p class="outset">An outset border.</p>
+<p class="none">No border.</p>
+<p class="hidden">A hidden border.</p>
+<p class="mix">A mixed border.</p>
+</body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.static {
+ position: static;
+ border: 3px solid #73AD21;
+}
+</style>
+</head>
+<body>
+<h2>position: static;</h2>
+<p>An element with position: static; is not positioned in any special way; it is always positioned according to the
+normal flow of the page:</p>
+<div class="static">
+This div element has position: static;
+</div>
+</body>
+</html>
